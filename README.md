@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sem</h1>
-<h3 align="center">I'm passionate self-taught fullstack / frontend developer from Finland. I really enjoy spending time programming and solving various kinds of tasks. Sometimes it's annoing, but when you solve the problem and pass the tests, it's unbeliaveble feeling. </h3>
+<h3 align="center" style="color: #000">I'm passionate self-taught fullstack / frontend developer from Finland. I really enjoy spending time programming and solving various kinds of tasks. Sometimes it's annoing, but when you solve the problem and pass the tests, it's unbeliaveble feeling. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yungdevvv&label=Profile%20views&color=0e75b6&style=flat" alt="yungdevvv" /> </p>
 
