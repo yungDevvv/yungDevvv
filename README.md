@@ -1,3 +1,6 @@
+<div style="width: 100%;">
+  <img src="https://t4.ftcdn.net/jpg/03/08/82/39/240_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" alt="Banner Image" style="width: 100%;">
+</div>
 <h1 align="center">Hi 👋, I'm Sem</h1>
 <h3 align="center" style="color: #000">I'm passionate self-taught fullstack / frontend developer from Finland. I really enjoy spending time programming and solving various kinds of tasks. Sometimes it's annoing, but when you solve the problem and pass the tests, it's unbeliaveble feeling. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
